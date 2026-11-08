@@ -1,0 +1,6 @@
+{
+  "name": "Ingliz Tili 90 Kun",
+  "description": "0 dan B2 gacha 90 kunlik intensiv ingliz tili dasturi: kuniga 150 daqiqa, 5 ta 30 daqiqalik blok, hayajonni yengish va ravon gapirish mashqlari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
